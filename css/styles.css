@@ -28,3 +28,44 @@
     width: 300px;
     border: 7px solid #dc3545
   }*/
+
+p span {
+  color: #dc3545;
+}
+
+h3 {
+    color: #dc3545;
+}
+
+#experiencia {
+margin-left: 0em;
+}
+
+.wordpress {
+  height: 50px;
+  width: 50px;
+}
+
+.html {
+margin-left: 2.5em;
+  height: 50px;
+  width: 50px;
+}
+
+.css {
+  margin-left: 2.5em;
+  height: 50px;
+  width: 50px;
+}
+
+.gra-habilidades {
+margin-left: 20%;
+height: max-content;
+width: 500px
+}
+
+.javascript {
+  margin-left: 2.5em;
+  height: 60px;
+  width: 60px;
+}
