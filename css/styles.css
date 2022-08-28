@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+  }
+  .wrapper {
+    width: 100vw;
+    height: 100vh;
+    background-color:#ffffff;
+    color:rgb(0, 0, 0);
+  }
+
+  .main {
+    margin: 0 auto;
+    width: 80vw;
+    height: 80vh;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+  }
+
+  /*.main img{
+    width: 300px;
+    border: 7px solid #dc3545
+  }*/
