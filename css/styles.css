@@ -33,7 +33,7 @@ p span {
   color: #dc3545;
 }
 
-h3 {
+.hab-text {
     color: #dc3545;
 }
 
@@ -69,3 +69,6 @@ width: 500px
   height: 60px;
   width: 60px;
 }
+
+/*.container {
+}*/
