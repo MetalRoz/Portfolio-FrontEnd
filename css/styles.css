@@ -107,3 +107,9 @@ font-size: 25px;
 .container-options {
   margin-top: 35px;
 }
+
+.imagenes-header {
+  display: flex;
+  height: 70px;
+  width: 114px;
+ }
